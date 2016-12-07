@@ -6,8 +6,8 @@ https://www.assetstore.unity3d.com/en/#!/content/20749
 When run, emotion metrics are filed to [yyyyMMdd_HHmmss]PlayerMetrics.csv in the project's root file (where yyyyMMdd_HHmmss is replaced with the date and time the game began).
 
 # Setup project in Unity
-git clone https://www.github.com/Affectiva/UnityChan.git 
-Open the cloned repository in unity. File -> Open Scenes -> ActionCheck . Import the Affdex asset (download it from the getting started section of the [developer portal](http://developer.affectiva.com/unity/)).
+git clone https://www.github.com/Affectiva/IntoTheSpace.git 
+Open the cloned repository in unity. File -> Open Scenes -> 2DSpaceShooterExample/CompleteProject/_SS_Scenes/Scene_01 . Import the Affdex asset (download it from the getting started section of the [developer portal](http://developer.affectiva.com/unity/)).
 
 # Affdex Unity Asset Documentation :
 Instructions on how to emotion enable a game (with examples) is here:
